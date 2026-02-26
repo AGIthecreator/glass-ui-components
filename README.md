@@ -27,6 +27,9 @@ El proyecto está organizado de forma atómica para facilitar su implementación
 
 ## ⚙️ Configuración CSS
 
+<details>
+  <summary>Haz clic aquí para ver el código CSS completo</summary>
+
 ```css
 :root {
 /* VARIABLES */
@@ -153,7 +156,7 @@ body {
 }
 ```
 
----
+</details>
 
 ## 🧩 Ejemplo de Componente HTML
 
